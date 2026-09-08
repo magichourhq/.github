@@ -5,19 +5,19 @@
 ## Start with a working example
 
 - **Explore requests:** fork the [official Postman collection](https://www.postman.com/magichourai/magic-hour-api) for image generation, image editing, product-image animation, face swap, lip sync, uploads, and result retrieval.
-- **Build an integration:** follow the [API quickstart](https://docs.magichour.ai/get-started/quickstart), then use the SDK for your language below.
+- **Build an integration:** follow the [API quickstart](https://docs.magichour.ai/get-started/quick-start), then use the SDK for your language below.
 - **Connect an agent:** use the [hosted MCP server](https://magichour.ai/mcp) to work with Magic Hour from a compatible MCP client.
 
 ## Official libraries and documentation
 
-| Resource | Purpose |
-| --- | --- |
-| [Python](https://github.com/magichourhq/magic-hour-python) | Python SDK and examples |
-| [TypeScript / Node.js](https://github.com/magichourhq/magic-hour-node) | JavaScript and TypeScript applications |
-| [Go](https://github.com/magichourhq/magic-hour-go) | Go applications |
-| [Rust](https://github.com/magichourhq/magic-hour-rust) | Rust applications |
-| [API documentation](https://github.com/magichourhq/docs) | REST reference, integration guides, and recipes |
-| [MCP](https://github.com/magichourhq/magic-hour-mcp) | Hosted server setup and supported clients |
+| Resource                                                               | Purpose                                         |
+| ---------------------------------------------------------------------- | ----------------------------------------------- |
+| [Python](https://github.com/magichourhq/magic-hour-python)             | Python SDK and examples                         |
+| [TypeScript / Node.js](https://github.com/magichourhq/magic-hour-node) | JavaScript and TypeScript applications          |
+| [Go](https://github.com/magichourhq/magic-hour-go)                     | Go applications                                 |
+| [Rust](https://github.com/magichourhq/magic-hour-rust)                 | Rust applications                               |
+| [API documentation](https://github.com/magichourhq/docs)               | REST reference, integration guides, and recipes |
+| [MCP](https://github.com/magichourhq/magic-hour-mcp)                   | Hosted server setup and supported clients       |
 
 ## From request to finished media
 
