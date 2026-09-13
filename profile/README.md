@@ -4,7 +4,7 @@
 
 ## Start with a working example
 
-- **Explore requests:** fork the [official Postman collection](https://www.postman.com/magichourai/magic-hour-api) for image generation, image editing, product-image animation, face swap, lip sync, uploads, and result retrieval.
+- **Explore requests:** fork the [official Postman collection](https://www.postman.com/magichourhq/magic-hour-api) for image generation, image editing, product-image animation, face swap, lip sync, uploads, and result retrieval.
 - **Build an integration:** follow the [API quickstart](https://docs.magichour.ai/get-started/quick-start), then use the SDK for your language below.
 - **Connect an agent:** use the [hosted MCP server](https://magichour.ai/mcp) to work with Magic Hour from a compatible MCP client.
 
