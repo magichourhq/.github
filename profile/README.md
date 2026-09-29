@@ -18,6 +18,7 @@
 | [Rust](https://github.com/magichourhq/magic-hour-rust)                 | Rust applications                               |
 | [API documentation](https://github.com/magichourhq/docs)               | REST reference, integration guides, and recipes |
 | [MCP](https://github.com/magichourhq/magic-hour-mcp)                   | Hosted server setup and supported clients       |
+| [CLI](https://github.com/magichourhq/magic-hour-cli)                   | Using terminal to generate outputs.             |
 
 ## From request to finished media
 
