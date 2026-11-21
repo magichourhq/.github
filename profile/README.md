@@ -62,7 +62,6 @@ Use Magic Hour from workflow tools, AI frameworks and design apps.
 | Integration                                                                       | Purpose                                       |
 | --------------------------------------------------------------------------------- | --------------------------------------------- |
 | [Hugging Face Space](https://github.com/magichourhq/magic-hour-huggingface-space) | Try image and video generation in the browser |
-| [Browser client](https://github.com/magichourhq/browser-client)                   | API client for apps that run in a web page    |
 
 </details>
 
