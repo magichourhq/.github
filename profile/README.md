@@ -1,6 +1,6 @@
 # Build with Magic Hour
 
-[Magic Hour](https://magichour.ai) provides tools and APIs for creating and editing images, video, and audio. This organization maintains our official SDKs, API documentation, and hosted MCP integration.
+[Magic Hour](https://magichour.ai) provides tools and APIs for creating and editing images, video, and audio. This organization maintains our official SDKs, integrations, API documentation, and hosted MCP integration.
 
 ## Start with a working example
 
@@ -20,6 +20,50 @@
 | [API documentation](https://github.com/magichourhq/docs)               | REST reference, integration guides, and recipes |
 | [MCP](https://github.com/magichourhq/magic-hour-mcp)                   | Hosted server setup and supported clients       |
 | [CLI](https://github.com/magichourhq/magic-hour-cli)                   | Using terminal to generate outputs.             |
+
+## Integrations
+
+Use Magic Hour from workflow tools, AI frameworks and design apps.
+
+<details>
+<summary>Show all integrations</summary>
+
+**Workflow automation**
+
+| Integration                                                                          | Purpose                                           |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| [n8n](https://github.com/magichourhq/n8n-nodes-magichour)                            | Community node for n8n workflows                  |
+| [Make](https://github.com/magichourhq/magic-hour-make)                               | Custom app for Make scenarios                     |
+| [Activepieces](https://github.com/magichourhq/activepieces-magic-hour)               | Piece for Activepieces flows and MCP agents       |
+| [Power Automate](https://github.com/magichourhq/magic-hour-power-platform-connector) | Connector for Power Automate and Azure Logic Apps |
+| [Dify](https://github.com/magichourhq/magic-hour-dify)                               | Tools for Dify agents and workflows               |
+
+**AI frameworks**
+
+| Integration                                                                            | Purpose                                         |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Vercel AI SDK](https://github.com/magichourhq/ai-sdk-provider)                        | Image and video provider for the AI SDK         |
+| [LiteLLM](https://github.com/magichourhq/magic-hour-litellm)                           | Image generation from the LiteLLM SDK and proxy |
+| [Haystack](https://github.com/magichourhq/magic-hour-haystack)                         | Image generation components for pipelines       |
+| [ComfyUI](https://github.com/magichourhq/comfyui-magic-hour)                           | Custom nodes for ComfyUI workflows              |
+| [Cloudflare Workflows](https://github.com/magichourhq/magic-hour-cloudflare-workflows) | Example of durable image and video jobs         |
+
+**Design apps**
+
+| Integration                                                              | Purpose                                      |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
+| [Canva](https://github.com/magichourhq/magic-hour-canva)                 | Turn an image or brief into a video in Canva |
+| [Adobe Express](https://github.com/magichourhq/magic-hour-adobe-express) | Turn an image or page into a video           |
+| [Framer](https://github.com/magichourhq/magic-hour-framer)               | Add a generated video to a Framer project    |
+| [Webflow](https://github.com/magichourhq/magic-hour-webflow)             | Generate images into a site's assets         |
+
+**More**
+
+| Integration                                                                       | Purpose                                       |
+| --------------------------------------------------------------------------------- | --------------------------------------------- |
+| [Hugging Face Space](https://github.com/magichourhq/magic-hour-huggingface-space) | Try image and video generation in the browser |
+
+</details>
 
 ## From request to finished media
 
